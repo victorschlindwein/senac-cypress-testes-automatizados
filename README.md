@@ -2,7 +2,7 @@
 
 Link do Notion com a transcrição da apresentação: https://www.notion.so/SENAC-Cypress-9e1157e8442d44e2ad9fb510a7eb8faa.
 
-# Código final disponível na branch `código-final`
+# Código final disponível na branch `codigo-final`
 
 # Requisitos
 
